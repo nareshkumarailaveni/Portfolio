@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-Froaud detection
+# Fraud detection
 
 As instructed creating the first project as Fraud detection
 
